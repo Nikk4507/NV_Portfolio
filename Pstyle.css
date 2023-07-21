@@ -19,3 +19,21 @@ img{
 p{
     font-size: 25px;
 }
+
+.way:hover{
+    color:#CD6688;
+}
+
+#pwc{
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+}
+#jio{
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+}
+#view{
+    font-size: 15px;
+}
