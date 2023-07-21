@@ -1,0 +1,21 @@
+body{
+    background-color: #DCD6F7;
+}
+hr{
+    border-style: none none;
+    border-top-style: dotted;
+    border-color: #424874;
+    border-width: 5px;
+   
+    width: 35%;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+p{
+    font-size: 25px;
+}
